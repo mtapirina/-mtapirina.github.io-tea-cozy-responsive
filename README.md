@@ -1,6 +1,8 @@
 # mtapirina.github.io-tea-cozy-responsive
 fictional tea shop website. 
 
+https://mtapirina.github.io/mtapirina.github.io-tea-cozy-responsive/
+
 Making a Website Responsive _ Codecademy
 
 Off-Platform Project: Tea Cozy
